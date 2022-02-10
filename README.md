@@ -56,13 +56,10 @@ Channel 2 Visible  (0.7 1.1 Âµm; APID65),<br>
 Channel 3 Visible  (1.6 1.8 µm; APID66).<br>
 </p>
 <p>
+10.02.2022 Switched to RGB Mode 1-2-3.
+</p>
+<p>
 29.11.2021 Stabilization issue's in the early morning quickly resolveld, Switched to RGB Mode 1-2-3.
-</p>
-<p>
-27.11.2021 Switched to RGB Mode 1-2-5.
-</p>
-<p>
-25.11.2021 Stabilization issue's in the morning quickly resolveld, Switched to RGB Mode 1-2-3.
 </p>
 </tbody>
 </table>
