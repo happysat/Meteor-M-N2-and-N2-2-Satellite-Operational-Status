@@ -28,7 +28,7 @@
                 <tr>
                         <td>On</td>
                         <td>On</td>
-                        <td>Off</td>
+                        <td>On</td>
                 </tr>
                 <tr>
                         <td><h4>APID 67</h4></td>
@@ -37,7 +37,7 @@
                 </tr>
                 <tr>
                         <td>Off</td>
-                        <td>On</td>
+                        <td>Off</td>
                         <td>Off</td>
                 </tr>
         </thead>
@@ -47,19 +47,16 @@
   <img src="http://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=200&height=100&mode=M&satid=40069" align="center" width="200" height="100" border="0"/></a>
 <h2>Notes:</h2>
 <p>
-Visible/IR Channels 1, 2, 5.<br>
+Visible/IR Channels 1, 2, 3.<br>
 <br>
 Active Channels:<br>
 <br>
 Channel 1 Visible  (0.5 0.7 Âµm; APID64),<br>
 Channel 2 Visible  (0.7 1.1 Âµm; APID65),<br>
-Channel 5 Infrared 10.5 ± 0.50 - 11.5 ± 0.50 µm; APID68,<br>
+Channel 3 Visible  (1.6 1.8 µm; APID66).<br>
 </p>
 <p>
-10.02.2022 Switched to RGB Mode 1-2-3, and back on RGB 125.
-</p>
-<p>
-29.11.2021 Stabilization issue's in the early morning quickly resolveld, Switched to RGB Mode 1-2-3.
+21.03.2022 Switched to RGB Mode 1-2-3.
 </p>
 </tbody>
 </table>
