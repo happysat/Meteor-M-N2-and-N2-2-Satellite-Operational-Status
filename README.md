@@ -18,7 +18,7 @@
                 <tr>
                         <td>137.100MHz</td>
                         <td>72.000K</td>
-                        <td>On</td>
+                        <td>Off</td>
                 </tr>
                  <tr>
                         <td><h4>APID 64</h4></td>
