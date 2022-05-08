@@ -56,7 +56,10 @@ Channel 2 Visible  (0.7 1.1 Âµm; APID65),<br>
 Channel 3 Visible  (1.6 1.8 µm; APID66).<br>
 </p>
 <p>
-04.05.2022 orientation loss.
+08.05.2022 MCC trying to stabilize.
+</p>
+<p>
+04.05.2022 orientation loss, LRPT Off, HRPT On.
 </p>
 <p>
 21.03.2022 Switched to RGB Mode 1-2-3.
