@@ -57,7 +57,7 @@ Channel 3 Visible  (1.6 1.8 µm; APID66).<br>
 </p>
 <p>       
 There is a lot of unverified information..
-Solar panels are face the sun, so energy on the M2 is fine.
+Solar panels are facing the sun, so energy on the M2 is fine.
 And no ground personal has broken anything, everything works fine.
 M2 will soon be 8 years old, and was intended for 5 years of service.
 There is a problem, and it will be solved.
@@ -69,7 +69,7 @@ Have a little more patience.
 08.05.2022 MCC trying to stabilize.
 </p>
 <p>
-04.05.2022 orientation loss, LRPT Off, HRPT On.
+04.05.2022 Orientation loss, LRPT Off, HRPT On.
 </p>
 <p>
 21.03.2022 Switched to RGB Mode 1-2-3.
