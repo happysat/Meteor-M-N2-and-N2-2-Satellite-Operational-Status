@@ -55,6 +55,16 @@ Channel 1 Visible  (0.5 0.7 Âµm; APID64),<br>
 Channel 2 Visible  (0.7 1.1 Âµm; APID65),<br>
 Channel 3 Visible  (1.6 1.8 µm; APID66).<br>
 </p>
+<p>       
+There is a lot of unverified information..
+Solar panels are face the sun, so energy on the M2 is fine.
+And no ground personal has broken anything, everything works fine.
+M2 will soon be 8 years old, and was intended for 5 years of service.
+There is a problem, and it will be solved.
+This situation did not arise for the first time.
+The chance of recovery is very high.
+Have a little more patience.
+</p>
 <p>
 08.05.2022 MCC trying to stabilize.
 </p>
