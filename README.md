@@ -55,6 +55,11 @@ Channel 1 Visible  (0.5 0.7 Âµm; APID64),<br>
 Channel 2 Visible  (0.7 1.1 Âµm; APID65),<br>
 Channel 3 Visible  (1.6 1.8 µm; APID66).<br>
 </p>
+<p>
+16.05.2022 HRPT is active, but orientation has not been restored.
+Decisive measures are needed to stabilize Meteor from satellite specialists.
+A new attempt is scheduled for the next few days.
+</p>        
 <p>       
 There is a lot of unverified information..
 Solar panels are facing the sun, so energy on the M2 is fine.
@@ -70,9 +75,6 @@ Have a little more patience.
 </p>
 <p>
 04.05.2022 Orientation loss, LRPT Off, HRPT On.
-</p>
-<p>
-21.03.2022 Switched to RGB Mode 1-2-3.
 </p>
 </tbody>
 </table>
