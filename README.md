@@ -56,6 +56,12 @@ Channel 2 Visible  (0.7 1.1 Âµm; APID65),<br>
 Channel 3 Visible  (1.6 1.8 µm; APID66).<br>
 </p>
 <p>
+18.05.2022 There is a very high probability that the M-N2 will continue to work in an unoriented mode,
+only devices that do not require precise orientation are enabled (HRPT). 
+The situation with M-N2 is developing according to the M-N1 scenario..
+Attempts to restore orientation will still be made, but there is no particular optimism.
+</p>      
+<p>
 16.05.2022 HRPT is active, but orientation has not been restored.
 Decisive measures are needed to stabilize Meteor from satellite specialists.
 A new attempt is scheduled for the next few days.
@@ -69,9 +75,6 @@ There is a problem, and it will be solved.
 This situation did not arise for the first time.
 The chance of recovery is very high.
 Have a little more patience.
-</p>
-<p>
-08.05.2022 MCC trying to stabilize.
 </p>
 <p>
 04.05.2022 Orientation loss, LRPT Off, HRPT On.
